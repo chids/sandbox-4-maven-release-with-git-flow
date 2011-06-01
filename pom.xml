@@ -3,7 +3,7 @@
     <groupId>silver</groupId>
     <artifactId>bullet</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <scm>
         <connection>scm:git:git://github.com/chids/sandbox-4-maven-release-with-git-flow.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/chids/sandbox-4-maven-release-with-git-flow.git</developerConnection>
