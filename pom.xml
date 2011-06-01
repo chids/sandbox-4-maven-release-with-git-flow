@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>silver</groupId>
     <artifactId>bullet</artifactId>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <scm>
         <connection>scm:git:git://github.com/chids/sandbox-4-maven-release-with-git-flow.git</connection>
